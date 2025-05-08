@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Rental-Scrapper.iml" filepath="$PROJECT_DIR$/.idea/Rental-Scrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application.iml" filepath="$PROJECT_DIR$/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/application.test.iml" filepath="$PROJECT_DIR$/.idea/modules/application.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/tools.iml" filepath="$PROJECT_DIR$/tools/tools.iml" />
     </modules>
   </component>
 </project>
