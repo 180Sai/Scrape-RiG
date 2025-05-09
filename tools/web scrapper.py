@@ -1,4 +1,5 @@
 import requests
+import lxml
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver import ChromeOptions
